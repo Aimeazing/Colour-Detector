@@ -53,6 +53,7 @@ VoidLoop(){
 }  
 
 ## The project structure
+!Depending on the version this structure might not match.
 LibrarySensor/  
 -- PVA.md  
  Approved project plan  
